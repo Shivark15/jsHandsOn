@@ -117,3 +117,5 @@ const myAdverb = "quickly";
 const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Change this line
 // Only change code above this line
 const myArray = ["string", 16];
+
+const myArray = [["Bulls", 23], ["White Sox", 45]];
