@@ -19,3 +19,12 @@ const myDecimal = 5.7 ;
 const product = 2.0 * 2.5;
 const quotient = 4.4 / 2.0;
 const remainder = 11%3;
+
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += c;
+b += 9;
+c += 7;
