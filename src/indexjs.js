@@ -148,3 +148,8 @@ const myArray = [18, 64, 99];
 
 // Only change code below this line
  const removedFromMyArray = myArray.pop() ;
+
+ const myArray = [["John", 23], ["dog", 3]];
+
+// Only change code below this line
+ const removedFromMyArray = myArray.shift() ;
