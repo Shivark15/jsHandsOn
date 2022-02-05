@@ -173,3 +173,7 @@ function functionWithArgs(one, two) {
   }
   functionWithArgs(7, 3);
   
+  function timesFive(num) {
+    return num * 5;
+  }
+  
