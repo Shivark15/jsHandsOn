@@ -119,3 +119,6 @@ const wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + my
 const myArray = ["string", 16];
 
 const myArray = [["Bulls", 23], ["White Sox", 45]];
+
+const myArray = [50, 60, 70];
+var myData = myArray[0]
