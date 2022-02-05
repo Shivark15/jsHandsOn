@@ -167,3 +167,9 @@ function reusableFunction()
   console.log("Hi World");
 }
 reusableFunction() ;
+
+function functionWithArgs(one, two) {
+    console.log(one + two);
+  }
+  functionWithArgs(7, 3);
+  
