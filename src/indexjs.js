@@ -72,3 +72,7 @@ const myStr = "Hello, our name is " + myName + ", how are you?";
 const someAdjective = "my name is";
 let myStr = "Learning to code is ";
  myStr+=someAdjective;
+
+ let lastNameLength = 0;
+const lastName = "Lovelace" ;
+lastNameLength = lastName.length;
