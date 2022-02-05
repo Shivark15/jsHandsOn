@@ -274,3 +274,15 @@ function nextInLine(arr, item) {
    
     return Boolean(5>0);
   }
+
+  function trueOrFalse(wasThatTrue) {
+    // Only change code below this line
+  
+  if (wasThatTrue) {
+      return "Yes, that was true";
+    }
+    return "No, that was false";
+  
+    // Only change code above this line
+  
+  }
